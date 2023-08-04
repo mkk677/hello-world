@@ -2,16 +2,15 @@
 
 https://git-scm.com
 
-## Getting Started
+## 설치 후 Git bash 열기
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+git bash 에서 환경설정 하기 
 
-### Prerequisites
+### 유저 이름 설정 
 
-What things you need to install the software and how to install them
 
 ```
-Give examples
+git config --global user.name "your_name"
 ```
 
 ### Installing
