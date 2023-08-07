@@ -13,7 +13,12 @@ git bash 에서 환경설정 하기
 git config --global user.name "your_name"
 ```
 
-### Installing
+### 유저 이메일 설정 
+
+```
+git config --global user.email "your_email"
+```
+
 
 A step by step series of examples that tell you how to get a development env running
 
