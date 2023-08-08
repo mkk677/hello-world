@@ -19,8 +19,12 @@ git config --global user.name "your_name"
 git config --global user.email "your_email"
 ```
 
+### 정보 확인하기 
 
-A step by step series of examples that tell you how to get a development env running
+
+```
+git config --list
+```
 
 Say what the step will be
 
