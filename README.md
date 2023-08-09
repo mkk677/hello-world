@@ -26,16 +26,25 @@ git config --global user.email "your_email"
 git config --list
 ```
 
-Say what the step will be
+## Github에 처음 코드 업로드 하기 
+
+1.초기화
 
 ```
-Give the example
+git init
 ```
 
-And repeat
+2.추가할 파일 더하기
 
 ```
-until finished
+git add .
+```
+.(점) 은 모든 파일이라는 뜻, 선택적으로 올리고 싶으면 add 뒤에 파일 이름 붙여주면 됨(예. git add index.html)
+
+3.상태 확인(선택사항)
+
+```
+git status
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
