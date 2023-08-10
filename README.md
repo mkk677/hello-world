@@ -48,7 +48,14 @@ git add .
 git status
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+### 4.히스토리 만들
+
+```
+git commit -m "first commit"
+```
+
+-m 은 메세지의 준말로 뒤에 “” 안에 주고싶은 히스토리 이름을 주면 됨 (즉, first commit일 필요가 없다는 뜻)
+
 
 ## Running the tests
 
