@@ -48,7 +48,7 @@ git add .
 git status
 ```
 
-### 4.히스토리 만들
+### 4.히스토리 만들기
 
 ```
 git commit -m "first commit"
