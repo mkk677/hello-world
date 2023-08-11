@@ -56,6 +56,33 @@ git commit -m "first commit"
 
 -m 은 메세지의 준말로 뒤에 “” 안에 주고싶은 히스토리 이름을 주면 됨 (즉, first commit일 필요가 없다는 뜻)
 
+### 5.Github repository랑 내 로컬 프로젝트랑 연결 
+
+```
+git remote add origin https://github.com/mkk677/hello-world.git
+```
+
+이 명령어는 github 에서 복사해서 붙여와야함 
+
+
+### 6.잘 연결됬는지 확인(선택사항)
+
+```
+git remote -v
+```
+
+내가 연결한 주소값이 잘 뜨면 완료!
+
+
+### 7.Github로 올리기 
+
+```
+git push origin master
+```
+
+master 자리에는 branch이름이 들어가면 됨 branch 이름이 world 라면 git push origin world 라고 서야함
+
+
 
 ## Running the tests
 
