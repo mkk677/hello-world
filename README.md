@@ -80,7 +80,7 @@ git remote -v
 git push origin master
 ```
 
-master 자리에는 branch이름이 들어가면 됨 branch 이름이 world 라면 git push origin world 라고 서야함
+master 자리에는 branch이름이 들어가면 됨 branch 이름이 world 라면 git push origin world 라고 써야함
 
 
 
