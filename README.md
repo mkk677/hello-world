@@ -62,7 +62,7 @@ git commit -m "first commit"
 git remote add origin https://github.com/mkk677/hello-world.git
 ```
 
-이 명령어는 github 에서 복사해서 붙여와야함 
+이 명령어는 github 에서 복사해서 붙여와야함. 
 
 
 ### 6.잘 연결됬는지 확인(선택사항)
@@ -80,7 +80,7 @@ git remote -v
 git push origin master
 ```
 
-master 자리에는 branch이름이 들어가면 됨 branch 이름이 world 라면 git push origin world 라고 써야함
+master 자리에는 branch이름이 들어가면 됨 branch 이름이 world 라면 git push origin world 라고 써야함.
 
 
 
