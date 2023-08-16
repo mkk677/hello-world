@@ -83,6 +83,27 @@ git push origin master
 master 자리에는 branch이름이 들어가면 됨 branch 이름이 world 라면 git push origin world 라고 써야함.
 
 
+## Github에 계속 업데이트 하는 법
+
+### 1.추가할 파일 더하기
+
+```
+git add.
+```
+
+### 2.히스토리 만들기
+
+```
+git commit -m "first commit"
+```
+
+### 3.Github로 올리기
+
+```
+git push origin master
+```
+내 컴퓨터에 소스코드를 업데이트를 하고 싶으면 이 세개의 스텝만 계속 반복하면 됨.
+
 
 ## Running the tests
 
