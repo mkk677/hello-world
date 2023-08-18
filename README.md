@@ -105,6 +105,28 @@ git push origin master
 내 컴퓨터에 소스코드를 업데이트를 하고 싶으면 이 세개의 스텝만 계속 반복하면 됨.
 
 
+## Github로 팀프로젝트 하는 법
+
+### 1.Github에서 소스코드 다운로드
+
+```
+git clone 주소 폴더이름
+```
+
+
+### 2.히스토리 만들기
+
+```
+git commit -m "first commit"
+```
+
+### 3.Github로 올리기
+
+```
+git push origin master
+```
+내 컴퓨터에 소스코드를 업데이트를 하고 싶으면 이 세개의 스텝만 계속 반복하면 됨.
+
 ## Running the tests
 
 Explain how to run the automated tests for this system
