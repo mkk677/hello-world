@@ -65,7 +65,7 @@ git remote add origin https://github.com/mkk677/hello-world.git
 이 명령어는 github 에서 복사해서 붙여와야함. 
 
 
-### 6.잘 연결됬는지 확인(선택사항!)
+### 6.잘 연결됬는지 확인(선택사항!!)
 
 ```
 git remote -v
