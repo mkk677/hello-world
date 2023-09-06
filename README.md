@@ -26,7 +26,7 @@ git config --global user.email "your_email"
 git config --list
 ```
 
-## Github에 처음 코드 업로드 하기 
+## Github에 처음 코드 업로드 하기!! 
 
 ### 1.초기화
 
