@@ -2,7 +2,7 @@
 
 https://git-scm.com
 
-## 설치 후 Git bash 열기
+## 설치 후 Git bash 열기!!!
 
 git bash 에서 환경설정 하기 
 
