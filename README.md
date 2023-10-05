@@ -1,4 +1,4 @@
-# git 설치!!!
+# git 설치!!
 
 https://git-scm.com
 
@@ -83,7 +83,7 @@ git push origin master
 master 자리에는 branch이름이 들어가면 됨 branch 이름이 world 라면 git push origin world 라고 써야함.
 
 
-## Github에 계속 업데이트 하는 법!!!
+## Github에 계속 업데이트 하는 법!!!!
 
 ### 1.추가할 파일 더하기
 
